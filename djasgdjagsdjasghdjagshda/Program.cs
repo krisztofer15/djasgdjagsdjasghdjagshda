@@ -10,6 +10,9 @@ namespace djasgdjagsdjasghdjagshda
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("helloszia");
+            Console.ReadKey();
+
         }
     }
 }
